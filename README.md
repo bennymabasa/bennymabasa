@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Benny 👋
 
-<!--
-**bennymabasa/bennymabasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a developer passionate about building clean, responsive web applications. Currently exploring frontend technologies and expanding my skills in modern web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Based in South Africa
+- 💻 Focused on HTML, CSS, JavaScript
+- 📚 Always learning and building
+
+## 🛠 Tech Stack
+
+**Languages & Tools**
+- HTML5 / CSS3 / JavaScript (ES6+)
+- Git & GitHub
+- Responsive Design
+
+## 📋 Featured Projects
+
+### [Calculator](https://github.com/bennymabasa/Calculator)
+A clean and responsive calculator built with pure HTML, CSS, and JavaScript.
+- Features: Basic arithmetic operations, clear function, mobile-friendly design
+- [View Code](https://github.com/bennymabasa/Calculator)
+
+## 🌟 Goals
+- Build more interactive web projects
+- Learn modern frameworks (React, etc.)
+- Contribute to open source
+- Create a professional portfolio website
+
+## 💬 Let's Connect
+Feel free to reach out if you'd like to collaborate or just chat about tech!
+
+---
+
+⚡ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
