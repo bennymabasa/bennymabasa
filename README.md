@@ -5,20 +5,29 @@ Welcome to my GitHub profile!
 **🌐 [View my Portfolio](https://bennymabasa.github.io)**
 
 ## 🚀 About Me
-I'm a developer passionate about building clean, responsive web applications. Currently exploring frontend technologies and expanding my skills in modern web development.
+I'm a developer from South Africa who loves building clean applications and solving problems with code — from responsive web apps to algorithm-driven simulations.
 
 - 🌐 Based in South Africa
-- 💻 Focused on HTML, CSS, JavaScript
+- 💻 Java, HTML, CSS, JavaScript
 - 📚 Always learning and building
 
 ## 🛠 Tech Stack
 
 **Languages & Tools**
+- Java / JavaFX
 - HTML5 / CSS3 / JavaScript (ES6+)
+- Data Structures & Algorithms
 - Git & GitHub
-- Responsive Design
 
 ## 📋 Featured Projects
+
+### [Wildfire Simulation System](https://github.com/bennymabasa/Wildfire-Simulation) 🔥
+JavaFX desktop application that simulates wildfire spread across terrain maps.
+- Custom data structures (ArrayList, Stack, Queue, PriorityQueue)
+- Graph-based terrain modeling from images
+- Event-driven fire simulation
+- Dijkstra safest-path finding
+- [View Code](https://github.com/bennymabasa/Wildfire-Simulation)
 
 ### [Calculator](https://github.com/bennymabasa/Calculator)
 A clean and responsive calculator built with pure HTML, CSS, and JavaScript.
@@ -30,10 +39,10 @@ My personal portfolio site showcasing projects and skills.
 - Live at: [bennymabasa.github.io](https://bennymabasa.github.io)
 
 ## 🌟 Goals
-- Build more interactive web projects
+- Build more interactive projects
+- Deepen knowledge of algorithms and systems
 - Learn modern frameworks (React, etc.)
 - Contribute to open source
-- Continuously improve my portfolio
 
 ## 💬 Let's Connect
 Feel free to reach out if you'd like to collaborate or just chat about tech!
