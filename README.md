@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+**🌐 [View my Portfolio](https://bennymabasa.github.io)**
+
 ## 🚀 About Me
 I'm a developer passionate about building clean, responsive web applications. Currently exploring frontend technologies and expanding my skills in modern web development.
 
@@ -23,11 +25,15 @@ A clean and responsive calculator built with pure HTML, CSS, and JavaScript.
 - Features: Basic arithmetic operations, clear function, mobile-friendly design
 - [View Code](https://github.com/bennymabasa/Calculator)
 
+### [Portfolio Website](https://github.com/bennymabasa/bennymabasa.github.io)
+My personal portfolio site showcasing projects and skills.
+- Live at: [bennymabasa.github.io](https://bennymabasa.github.io)
+
 ## 🌟 Goals
 - Build more interactive web projects
 - Learn modern frameworks (React, etc.)
 - Contribute to open source
-- Create a professional portfolio website
+- Continuously improve my portfolio
 
 ## 💬 Let's Connect
 Feel free to reach out if you'd like to collaborate or just chat about tech!
